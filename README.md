@@ -16,6 +16,8 @@
   ## Usage
   The following [Walkthrough Video](https://clipchamp.com/watch/SJYJyu4CxWH) should sufficiently demonstrate the capabilities of this project, as well as instruct you on how to use it. If you don't trust the link, then do the following: after downloading (and extracting the files if necessary) the user should run Git Bash from the file location of index.js (which should be in the assets folder) and type in "node index.js" into the Bash terminal. The program will begin to prompt the user for different subjects, such as the repository description, installation instructions, etc. When the user finishes answering the prompts, the program will generate the ReadMe.md file in the root directory, where the user can edit it from there.
 
+  ![Screenshot](./assets/image/Screenshot%202023-04-29%20102937.png)
+
   ## License
   This project is covered under No License. I personally give permission for anyone to use this code as they choose. 
 
